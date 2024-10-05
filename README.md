@@ -6,11 +6,9 @@
 
 # PointJEM: Self-supervised Point Cloud Understanding for Reducing Feature Redundancy via Joint Entropy Maximization
 
-Xin Cao1, Huan Xia1, Haoyu Wang1, Linzhi Su1, Ping Zhou2, Kang Li1,*
+Xin Cao, Huan Xia, Haoyu Wang, Linzhi Su, Ping Zhou and Kang Li※
 
-1.School of Information Science and Technology, Northwest University, Xi’an, Shaanxi 710127, China
-
-2.Emperor Qin Shihuang's Mausoleum Site Museum, Key Scientific Research Base of Ancient Polychrome Pottery Conservation, Xi'an, Shaanxi, 710600, China
+The 32th Pacific Conference on Computer Graphics and Applications (Pacific Graphics 2024), 2024. (Oral presentation)
 
 ##  Datasets
 
